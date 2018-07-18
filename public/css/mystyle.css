@@ -1,0 +1,21 @@
+#wrap{
+	background-color:#eeeff1;
+	padding: 5%;
+	margin:30px auto;
+	border-radius:10px;
+	padding-top:20px;
+}
+
+#menu {
+	background-color: #525282;
+	color:#fff;
+	}
+#link {
+	color:#fff;
+}
+#copy {
+	background-color:#525282;
+	border-radius:6px;
+	padding: 2%;
+	color:#fff;
+}
